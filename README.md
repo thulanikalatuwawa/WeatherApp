@@ -64,7 +64,7 @@ Weather Result Example
 
 ## Project Structure
 ```
-weather-app/
+WeatherApp/
 ├── WeatherApp.py    # Main application script
 ├── README.md         # Project documentation
 
