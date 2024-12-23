@@ -34,8 +34,8 @@ pip install requests pillow ttkbootstrap
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+git clone https://github.com/thulanikalatuwawa/WeatherApp
+cd WeatherApp
 ```
 2. Obtain an API key from OpenWeatherMap.
 
@@ -45,7 +45,7 @@ API_key = "your_api_key_here"
 ```
 4. Run the application:
 ```bash
-python weather_app.py
+python WeatherApp.py
 ```
 ## How to Use
 1. Launch the app.
@@ -65,7 +65,7 @@ Weather Result Example
 ## Project Structure
 ```
 weather-app/
-├── weather_app.py    # Main application script
+├── WeatherApp.py    # Main application script
 ├── README.md         # Project documentation
 
 ```
